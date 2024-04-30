@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Renew Gym Membership",
+    "description": "Membership expires next month",
+    "status": "TO DO"
+  },
+  {
+    "id": 2,
+    "title": "Update Resume",
+    "description": "Add recent achievements and experiences",
+    "status": "In Progress"
+  },
+  {
+    "id": 3,
+    "title": "Grocery Shopping",
+    "description": "Buy fruits, vegetables, and other essentials",
+    "status": "TO DO"
+  },
+  {
+    "id": 4,
+    "title": "Pay Bills",
+    "description": "Utility bills and rent payment",
+    "status": "TO DO"
+  },
+  {
+    "id": 5,
+    "title": "Attend Webinar",
+    "description": "Learn about new industry trends",
+    "status": "In Progress"
+  },
+  {
+    "id": 6,
+    "title": "Update Social Media Profiles",
+    "description": "Update profile pictures and information",
+    "status": "Completed"
+  },
+  {
+    "id": 7,
+    "title": "Read News",
+    "description": "Stay updated with current events",
+    "status": "TO DO"
+  },
+  {
+    "id": 8,
+    "title": "Practice Coding",
+    "description": "Solve coding problems on LeetCode",
+    "status": "In Progress"
+  },
+  {
+    "id": 9,
+    "title": "Walk the Dog",
+    "description": "Take the dog for a walk in the evening",
+    "status": "Completed"
+  },
+  {
+    "id": 10,
+    "title": "Write Blog Post",
+    "description": "Create a new blog post on a recent topic",
+    "status": "TO DO"
+  }
+]
